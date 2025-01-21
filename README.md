@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fagarcias&label=Profile%20views&color=0e75b6&style=flat" alt="fagarcias" /> </p>
 
 - 💬 **Actualmente, estoy desarrollando mis habilidades como Desarrolladora Web Full Stack, especializada en Fronted, trabajando en proyectos con tecnologías como HTML, CSS, JavaScript, React, Next.js y Tailwind CSS, Git, GitHub, Vercel. Soy psicóloga con experiencia en atención terapéutica, evaluaciones psicológicas, aplicación de pruebas psicométricas y asesoramiento. Me destaco por mi ética profesional, empatía, pensamiento crítico y proactividadtrabajo en equipo y el aprendizaje continuo.**
+  
+- - 📫 Cómo contactarme **garciafergie997@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
