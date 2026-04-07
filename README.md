@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fagarcias&label=Profile%20views&color=0e75b6&style=flat" alt="fagarcias" /> </p>
 
-- 💬 **Soy Desarrolladora Web Full Stack con especialización en Frontend, con formación en Psicología y diplomados en Gestión de Recursos Humanos y Análisis de Contenido Digital. He trabajado con HTML, CSS, TypeScript, React, Next.js, Tailwind CSS, Material UI, GitHub, Vercel, Swagger y PostgreSQL en proyectos personales y colaborativos. Trabajo bajo metodología Scrum utilizando GitHub y Jira, y cuento con conocimientos prácticos en MailChimp y Metricol para análisis y optimización de contenido digital.**
+- 💬 **Soy Desarrolladora Web Full Stack con especialización en Frontend. Experiencia práctica con HTML, CSS, TypeScript, React, Next.js, Figma, Tailwind CSS, Material UI, GitHub, Swagger, Vercel y PostgreSQL. Trabajo bajo metodología Scrum y herramientas colaborativas como GitHub y Jira. Destaco por trabajo en equipo, resolución de problemas y adaptabilidad.**
   
 - - 📫 Cómo contactarme **garciafergie997@gmail.com**
 
